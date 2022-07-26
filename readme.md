@@ -5,7 +5,7 @@ Hello, I am a Rust developer that loves making some Neovim Lua plugins.
 ## Projects I am maintaining currently:
 - [shift-d/awesome-github-configurations](https://github.com/shift-d/awesome-github-configurations) - The title says it.
 - [gio-nvim/gio.nvim](https://github.com/gio-nvim/gio.nvim) - Modular configuration for neovim.
-- [shift-d/ntao](https://github.com/shift-d/ntao) - Neovim GUI made with Rust and Web.
+- [yang-cfg/\*](https://github.com/yang-cfg/) - Simple and extensible configuration language.
 
 ## Projects that I maintain, but taking a break from:
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - Crossplatform shell built with Rust and Lua.
